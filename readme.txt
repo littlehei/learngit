@@ -5,3 +5,5 @@ Git tracks changes of files.
 
 Git add.
 hello git.
+
+My stupid boss still prefer svn.
